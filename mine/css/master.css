@@ -1,0 +1,80 @@
+.header{
+    align: center;
+    font-family: cursive;
+    font-size: 120%;
+    background-color: #ADD8E6;
+}
+
+a.navlink{
+    font-family: cursive;
+}
+
+a.navlink:link{
+    color: #000000;
+    text-decoration: none;
+}
+
+a.navlink:visited{
+    color: #000000;
+    text-decoration: none;
+}
+
+a.navlink:hover{
+    color: #cccccc;
+    text-decoration: none;
+}
+
+.site_disc{
+    font-size: 95%;
+    font-family: cursive, 黑体;
+    background-color: #ADD8E6;
+}
+
+.head_img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50% 50% 50% 50%;
+    -moz-animation:rotate 15s infinite linear;
+    -webkit-animation:rotate 15s infinite linear;
+    animation:rotate 15s infinite linear;
+}
+
+@-moz-keyframes rotate{
+    0%{
+        -moz-transform:rotate(0deg);
+    }
+    100%{
+        -moz-transform:rotate(360deg);
+    }
+}
+@-webkit-keyframes rotate{
+    0%{
+        -webkit-transform:rotate(0deg);
+    }
+    100%{
+        -webkit-transform:rotate(360deg);
+    }
+}
+ @keyframes rotate{
+     0%{
+        transform:rotate(0deg);
+     }
+     100%{
+       transform:rotate(360deg);
+     }
+}
+.footer{
+    margin-top: 20px;
+    background-color: skyblue;
+    font-family: fantasy;
+    font-size: 110%;
+}
+
+.content{
+
+}
+
+.share{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
