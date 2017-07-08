@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
@@ -16,8 +16,7 @@
         <div class="site_disc">
             <p>
                 This is a web site about my codes,ideas and so so.... <br>
-                你能点进来我真的很高兴，我的代码、学习资料和新鲜事儿都将会在这里。 <br>
-                站长不喜欢用网站框架，还在疯狂写码中......困。。
+                
             </p>
         </div>
 
